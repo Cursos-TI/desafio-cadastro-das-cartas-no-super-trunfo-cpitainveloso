@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    // Características da cidade3
+
+    // Características da cidade
     char estado;
     char codigo_carta[16];
     char nome_cidade[16];
@@ -11,8 +12,7 @@ int main() {
     int pontos_turisticos; 
  
 // carta de numero 2 
-   carta 2;
-
+printf("carta 2");
 
     char estado2;
     char codigo_carta2[15];
